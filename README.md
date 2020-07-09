@@ -6,6 +6,7 @@ Hi 👋, I'm Daniel a Front-End React Web and Mobile developer. I started progra
 - React / React-Native
 - Redux
 - Firebase
+- SQL
 - Webpack
 - Saas
 - HTML
