@@ -1,5 +1,5 @@
 # Daniel Soladoye ---> @Dsholz
-Hi 👋, I'm Daniel a Front-End React Web and Mobile developer. I started programming about two years ago and I still continue to pick up various new skill and tools. I've crated a lot of projects with such tools I've picked up and you can view them below. I'm a passionate learner and collaborative team player
+Hi 👋, I'm Daniel a Front-End React Web and Mobile developer. I started coding about two years ago and I still continue to pick up various new skill and tools. I've created a lot of projects with the skills I've learnt and you can see them below. I'm a passionate learner and collaborative team player
 
 ## Skills / Tools / Technologies I use
 - JavaScript
