@@ -13,7 +13,7 @@ Hi 👋, I'm Daniel a Front-End React Web and Mobile developer. I started coding
 - CSS
 
 
-## Reach out on any of this plattforms
+## Reach out on any of this platforms
 You can reach me on any of these plattforms
 - Linkedin - https://www.linkedin.com/in/danielsoladoye/
 - Twitter - https://twitter.com/Danny__Real
