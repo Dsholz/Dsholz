@@ -15,9 +15,9 @@ Hi 👋, I'm Daniel a Front-End React Web and Mobile developer. I started coding
 
 ## Reach out on any of this platforms
 You can reach me on any of these plattforms
-- Linkedin - https://www.linkedin.com/in/danielsoladoye/
-- Twitter - https://twitter.com/Danny__Real
-- Instagram - https://www.instagram.com/_s.o.l.e.x/
+- [Linkedin](https://www.linkedin.com/in/danielsoladoye/)
+- [Twitter](https://twitter.com/Danny__Real)
+- [Instagram](https://www.instagram.com/_s.o.l.e.x/)
 <!--
 **Dsholz/Dsholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
